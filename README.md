@@ -1,5 +1,6 @@
 Contrôle de Robot via Bluetooth avec ESP32
-Description
+Description :
+
 Ce projet permet de contrôler un robot équipé de deux moteurs à courant continu via un module L298N, piloté par un ESP32. La communication avec le robot s’effectue en Bluetooth, permettant d’envoyer des commandes depuis un smartphone, une télécommande ou tout autre appareil Bluetooth compatible.
 
 Fonctionnalités
@@ -25,7 +26,7 @@ Téléversez le code sur votre ESP32 à l’aide de l’IDE Arduino.
 
 Connectez le module L298N et les moteurs selon les broches définies dans le code.
 
-Activez le Bluetooth sur votre appareil et connectez-vous au périphérique nommé "Credit : DENIS" (ou selon le nom défini dans le code).
+Activez le Bluetooth sur votre appareil et connectez-vous au périphérique.
 
 Envoyez les commandes suivantes via une application Bluetooth !
 
